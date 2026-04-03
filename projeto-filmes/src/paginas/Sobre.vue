@@ -4,7 +4,7 @@
     <p>
       Esse projeto de filmes foi feito por mim pros estudos e também pode ser usado como portfólio. A ideia inicial foi montar uma telinha mostrando os principais filmes aguardados para 2025 usando componentes Vue.js e testando as mudanças de rotas pra deixar tudo mais dinâmico.
     </p>
-    <p>Tentei deixar o código e a estrutura o mais simples possível, seguindo uma lógica focada pro nível iniciante.</p>
+    <p>Tentei deixar o código e a estrutura o mais simples possível.</p>
   </div>
 </template>
 
